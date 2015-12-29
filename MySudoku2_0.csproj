@@ -76,6 +76,7 @@
     <Compile Include="SudokuUtilities.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GNU GPL.txt" />
     <Content Include="Images\MySudoku2_0.ico" />
     <Content Include="MySudoku2_0.ico" />
   </ItemGroup>
