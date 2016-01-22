@@ -1,4 +1,0 @@
-C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 2.0\MySudoku2_0\bin\Release\My Sudoku 2.0.exe
-C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 2.0\MySudoku2_0\bin\Release\My Sudoku 2.0.pdb
-C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 2.0\MySudoku2_0\obj\x86\Release\My Sudoku 2.0.exe
-C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 2.0\MySudoku2_0\obj\x86\Release\My Sudoku 2.0.pdb
